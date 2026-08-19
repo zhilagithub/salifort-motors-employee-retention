@@ -6,7 +6,7 @@ This project analyzes employee data from Salifort Motors to understand factors a
 
 The analysis focuses on employee satisfaction, workload, tenure, evaluation scores, salary, promotion history, and other workplace characteristics.
 
-> **Project Context:** This project was completed as part of the Google Advanced Data Analytics Professional Certificate.
+ **Project Context:** This project was completed as part of the Google Advanced Data Analytics Professional Certificate.
 
 ## Business Question
 
@@ -32,7 +32,7 @@ The dataset contains employee-level HR information, including:
 * Promotion history
 * Department
 * Salary
-* Employee turnover (`left`) — target variable
+* Employee turnover  — target variable
 
 ## Technologies Used
 
