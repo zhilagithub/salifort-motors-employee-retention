@@ -30,7 +30,7 @@ The dataset contains employee-level HR information, including:
 - Promotion history
 - Department
 - Salary
-- Employee turnover (`left`) — target variable
+- Employee turnover — target variable
 
 ## Technologies Used
 
