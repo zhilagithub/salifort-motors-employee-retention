@@ -43,3 +43,15 @@ The dataset contains employee-level HR information, including:
 * Seaborn
 * Jupyter Notebook
 
+ ## Repository Structure
+
+```text
+salifort-motors-employee-retention/
+├── data/
+│   └── HR_capstone_dataset.csv
+├── notebooks/
+│   └── salifort_motors_employee_retention.ipynb
+└── README.md
+```
+
+
